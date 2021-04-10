@@ -51,7 +51,7 @@ Project Drishti is an Android based application which is developed for Visually 
 ## Features
 
 
-- **Outdoor Navigation** :- Geolocation Technology is be used to mark the destination for the user and navigate the user through the shortest available path. A 3D audio assistance provides continuous response to the user about the direction on which user has to walk. The 3D audio will be rendered dynamically to keep user updated about the direction.
+- **Outdoor Navigation** :- Geolocation Technology is used to mark the destination for the user and navigate the user through the shortest available path. A 3D audio assistance provides continuous response to the user about the direction on which user has to walk. The 3D audio will be rendered dynamically to keep user updated about the direction.
 
 - **Facial Recognition** : Hybrid approach is used for implementing the face recognition system in Drishti. This approach is about using face descriptor method and probability-based similarity method for face recognition. In this approach, input to the system will be max 2-3 images of the person and on the basis of this, training of the images is be done and after that can be used to recognize the targeted face.
 
