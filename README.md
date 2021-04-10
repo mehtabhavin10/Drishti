@@ -14,7 +14,7 @@ Project Drishti is an Android based application which is developed for Visually 
 
 <div align="center">
 
-<img src="/ss/app1.png" width=100px height=200px />
+<img src="/ss/app1.png" width=300px height=600px />
 
 <img src="/ss/app2.png" width=300px height=600px/>
 
